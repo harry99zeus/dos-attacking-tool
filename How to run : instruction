@@ -1,0 +1,7 @@
+# DOSATTACKINGTOOL.c
+DOSATTACKINGTOOL.c the most powerful DoS tool
+Download the File DOSATTACKINGTOOL.c to your Desktop
+Open Terminal and type these commands
+cd Desktop
+gcc DOSATTACKINGTOOL.c -o xerxes
+USAGE : ./DOSATTACKINGTOOL.c www.fakesite.com 80
